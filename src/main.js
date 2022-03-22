@@ -3,6 +3,8 @@
  * @param {Spotfire.Mod} mod - mod api
  */
 Spotfire.initialize(async (mod) => {
+
+	/// hello world!
     /**
      * Create the read function.
      */
